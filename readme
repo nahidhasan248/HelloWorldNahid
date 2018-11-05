@@ -1,1 +1,1 @@
-p
+print('my name is python')
